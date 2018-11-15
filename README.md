@@ -7,14 +7,14 @@ Our mission is to provide accessible, cutting-edge tech education to empower ind
 Do [reach out to us](https://xccelerate.co) or call +852 6883 8583 if you’d like to share your work, meet our staff or ask for help. 
 
 ### Introduction
-Two hour workshop held by xccelerate in HK to introduce interested audience to wechat and development in mini-programs. 
+Two hour workshop held by Xccelerate in HK to introduce interested audience to wechat and development in mini-programs. 
 
 #### Things to prepare
 Download the wechat app on your mobile Phone. Have a wechat account and login with your account on your phone. Join the wechat group for this workshop.  
 
 #### Important Links for this workshop: 
 1. [Download the wechat mini-program IDE](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) 
-2. [overview development  ](https://developers.weixin.qq.com/miniprogram/en/dev/index.html)
+2. [Development Overview](https://developers.weixin.qq.com/miniprogram/en/dev/index.html)
 3. [Download WeUI](https://github.com/Tencent/weui-wxss)  - the front end UI library for wechat mini-programs. 
 4. [WeUI documentation](https://github.com/Tencent/weui/wiki)
 5. [Reference API](https://developers.weixin.qq.com/miniprogram/dev/api/)
