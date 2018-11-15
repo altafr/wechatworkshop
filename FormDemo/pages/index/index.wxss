@@ -1,0 +1,26 @@
+/**index.wxss**/
+
+.section_title{
+  font-weight:bold; 
+}
+
+input{ 
+  padding:5rpx 5rpx;
+  margin: 5rpx 0rpx;
+  border:solid 1rpx #aacfe4; 
+}
+
+.section_gap{
+  padding: 20rpx 0rpx;
+}
+
+.form_button {
+  font-size:16px; 
+  margin: 20rpx 0rpx;
+  overflow: hidden;
+}
+
+.error_banner {
+  color: red;
+  font-size:13px; 
+}

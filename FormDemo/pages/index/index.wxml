@@ -1,0 +1,37 @@
+<!--index.wxml-->
+
+<view class="container">
+ <form bindsubmit="formSubmit" bindreset="formReset">
+  <view class="section section_gap">
+    <view class="section_title">Name:</view>
+    <input name="userName" placeholder="Your whole name" bindinput="bindUserNameChange" value="{{userName}}"/>
+  </view>
+  
+  <view class="section section_gap">
+    <view class="section_title">Mobile Number:</view>
+    <input name="mobileNumber" type="number" maxlength="11" placeholder="11 numeric digits" bindinput="bindMobileNumberChange" value="{{mobileNumber}}"/>
+    <text class="error_banner" hidden="{{isMobileNumberCorrect}}">{{mobileNumberErrorMessage}}</text>
+  </view>
+
+  <view class="section section_gap">
+    <view class="section_title">Email:</view>
+    <input name="email" type="email" placeholder="Your personal email" bindinput="bindEmailChange" value="{{email}}"/>
+    <text class="error_banner" hidden="{{isEmailCorrect}}">{{emailErrorMessage}}</text>
+  </view>
+
+  <view class="section section_gap">
+    <view class="section_title">Birthdate:</view>
+    <picker mode="date" value="{{birthdate}}" bindchange="bindBirthdateChange">
+      <view class="picker">
+        <input name="birthdate" placeholder="Click here to select" value="{{birthdate}}" disabled="disabled"/>
+      </view>
+    </picker>
+  </view>
+  <input name="timestamp" value="{{timestamp}}" hidden="true"/>
+
+  <view class="btn-area">
+    <button class="form_button submit_button" formType="submit" type="primary" disabled="{{!isDataCorrect}}">Submit</button>
+    <button class="form_button" formType="reset">Reset</button>
+  </view>
+</form>
+</view>
