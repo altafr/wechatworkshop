@@ -3,15 +3,14 @@
 ### About Xccelerate
 Xccelerate was founded with the original vision of bridging the tech talent gap in Hong Kong. 
 We enable students and companies to acquire the skills they need in Artificial Intelligence, Blockchain and Software Engineering. 
-Our mission is to provide accessible, cutting-edge tech education to empower individuals, businesses, and communities globally
+Our mission is to provide accessible, cutting-edge tech education to empower individuals, businesses, and communities globally. 
+Do [reach out to us](https://xccelerate.co) or call +852 6883 8583 if you’d like to share your work, meet our staff or ask for help. 
 
 ### Introduction
 Two hour workshop held by xccelerate in HK to introduce interested audience to wechat and development in mini-programs. 
 
-
 #### Things to prepare
 Download the wechat app on your mobile Phone. Have a wechat account and login with your account on your phone. Join the wechat group for this workshop.  
-
 
 #### Important Links for this workshop: 
 1. [Download the wechat mini-program IDE](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) 
@@ -26,5 +25,5 @@ Please help us provide [feedback](https://docs.google.com/forms/d/e/1FAIpQLSc8lQ
 We will send out a copy of the presentation to all participants. 
 
 ### Get in touch
-Are you looking to learn coding and development? we have a course for absolute begginers and also for those interested in learning mini-program development Do [reach out to us](https://xccelerate.co) if you’d like to share your work, meet our staff or ask for help. 
+Are you looking to learn coding and development? we have a course for absolute begginers and also for those interested in learning mini-program development Do [reach out to us](https://xccelerate.co) or call +852 6883 8583 if you’d like to share your work, meet our staff or ask for help. 
 
