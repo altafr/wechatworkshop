@@ -26,4 +26,8 @@ We will send out a copy of the presentation to all participants.
 
 ### Get in touch
 Are you looking to learn coding and development? we have a course for absolute begginers and also for those interested in learning mini-program development Do [reach out to us](https://xccelerate.co) or call +852 6883 8583 if you’d like to share your work, meet our staff or ask for help. 
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/altafrehmani/)
 ![Courses](courses.png)
+
+
