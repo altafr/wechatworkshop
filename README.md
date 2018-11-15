@@ -20,13 +20,9 @@ Download the wechat app on your mobile Phone. Have a wechat account and login wi
 4. [WeUI documentation](https://github.com/Tencent/weui/wiki)
 
 ### After the workshop
-Please help us provide [feedback] (https://docs.google.com/forms/d/e/1FAIpQLSc8lQ0Oi0fFf5mazpal4eQXKCuvBODaEbvzluy7_QXYp6-g9A/viewform)on the workshop.
+Please help us provide [feedback](https://docs.google.com/forms/d/e/1FAIpQLSc8lQ0Oi0fFf5mazpal4eQXKCuvBODaEbvzluy7_QXYp6-g9A/viewform) on the workshop.
 We will send out a copy of the presentation to all participants. 
 
 ### Get in touch
-Are you looking to learn coding and development? we have a course for absolute begginers and also for those interested in learning mini-program development Do [reach out to us](https://xccelerate.co) if you’d like to share your work, meet our crew, ask for help!
-
-
-
-
+Are you looking to learn coding and development? we have a course for absolute begginers and also for those interested in learning mini-program development Do [reach out to us](https://xccelerate.co) if you’d like to share your work, meet our staff or ask for help. 
 
