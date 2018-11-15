@@ -1,0 +1,33 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(240, 10, 10);
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 20%;
+}
+
+.userinfo-nickname {
+  color: #000;
+}
+
+.tasks .tasks-title {
+  font-size:25px;
+  padding: 10px;
+  text-align: center;
+}
+.tasks .task {
+  font-size: 20px;
+  padding: 5px 5px 15px 5px;
+}
+
+.options {
+  margin-top: 20px;
+  padding: 15px;
+}

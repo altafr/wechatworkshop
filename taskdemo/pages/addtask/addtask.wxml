@@ -1,0 +1,13 @@
+<!--addtask.wxml-->
+<view class="container">
+  <form class="addtask-form">
+    <view class="name-field">
+      <text class="form-field">Name: </text>
+      <input class="form-input" placeholder="{{taskName}}" bindinput="keydown" auto-focus/>
+    </view>
+    <view class="buttons">
+      <button class="weui-btn" type="primary" bindtap="addTask">Add Task</button>
+      <button class="weui-btn" bindtap="cancelForm">Cancel</button>
+    </view>
+  </form>
+</view>

@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index", 
+    "pages/addtask/addtask"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#eee",
+    "navigationBarTitleText": "My Todo List",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh": false
+  }
+}

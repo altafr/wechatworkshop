@@ -1,0 +1,21 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <button wx:if="{{!hasUserInfo && canIUse}}"> Getting profile info </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
+  </view>
+  <view class="tasks">
+    <view class="tasks-title">Tasks</view>
+    <block wx:for="{{todos}}" wx:for-item="task" wx:key="{{index}}">
+      <view class="task" >{{index + 1}}. {{task}}</view>
+    </block>
+  </view>
+  <view class="options">
+    <!-- <text class="user-motto">{{app.name}}</text> -->
+    <button class="weui-btn" type="primary" bindtap="addTask">Add task</button>
+    <button class="weui-btn" type="default" bindtap="askClearConfirmation"> Clear tasks</button>
+  </view>
+</view>

@@ -1,0 +1,23 @@
+.addtask-form {
+  font-size: 15px;
+  padding: 10px;
+}
+
+.name-field {
+  /* background-color: yellow; */
+}
+.form-field {
+  padding: 10px;
+  /* background-color: green; */
+}
+
+.form-input {
+  /* background-color: red; */
+  padding: 10px;
+  /* color: #ccc; */
+  /* display: inline-block; */
+}
+
+.buttons {
+  padding: 10px;
+}
