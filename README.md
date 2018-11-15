@@ -15,9 +15,11 @@ Download the wechat app on your mobile Phone. Have a wechat account and login wi
 
 #### Important Links for this workshop: 
 1. [Download the wechat mini-program IDE](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) 
-2. [Developer Documentation ](https://developers.weixin.qq.com/miniprogram/en/dev/index.html)
+2. [overview development  ](https://developers.weixin.qq.com/miniprogram/en/dev/index.html)
 3. [Download WeUI](https://github.com/Tencent/weui-wxss)  - the front end UI library for wechat mini-programs. 
 4. [WeUI documentation](https://github.com/Tencent/weui/wiki)
+5. [Reference API](https://developers.weixin.qq.com/miniprogram/dev/api/)
+
 
 ### After the workshop
 Please help us provide [feedback](https://docs.google.com/forms/d/e/1FAIpQLSc8lQ0Oi0fFf5mazpal4eQXKCuvBODaEbvzluy7_QXYp6-g9A/viewform) on the workshop.
